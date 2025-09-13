@@ -10,7 +10,7 @@ const Header = () => {
             <Brain className="h-10 w-10 mr-4" />
             <div>
               <h1 className="text-2xl font-bold">AI in Mental Healthcare</h1>
-              <p className="text-blue-100">Doctoral Research by Sumit Pandey</p>
+              <p className="text-blue-100">Doctoral Research by Akash Yadav</p>
             </div>
           </div>
           
