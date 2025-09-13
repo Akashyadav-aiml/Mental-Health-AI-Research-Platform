@@ -18,7 +18,7 @@ const Footer = () => {
             </p>
             <div className="flex items-center text-gray-300">
               <Mail className="h-4 w-4 mr-2" />
-              <span>Doctoral Research by Sumit Pandey</span>
+              <span>Doctoral Research by Akash Yadav</span>
             </div>
           </div>
 
